@@ -1,4 +1,9 @@
+import java.util.ArrayList;
 
 public class AlwaysContinues {
-	System.out.println("Hello");
+
+	ArrayList<? extends Number> b = new ArrayList<>();
+	
+	
+	
 }
